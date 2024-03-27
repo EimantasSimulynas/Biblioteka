@@ -1,7 +1,6 @@
 import java.util.List;
 
 public class HomeController {
-}@RestController
 @RequestMapping({"/"})
 public class HomeController {
     @Autowired
